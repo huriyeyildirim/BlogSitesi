@@ -4,7 +4,7 @@
 
     $server = "localhost";
     $username = "huriyeyildirim";
-    $password = "Kutahya0743";
+    $password = "********";
     $database = "easmodels_ajans";
 
     $link = mysqli_connect($server,$username,$password);
